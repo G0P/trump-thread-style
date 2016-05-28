@@ -49,7 +49,7 @@ if(op.getElementsByClassName("subject")[0].textContent.toUpperCase().indexOf("TR
   var ps = document.createElement("style");
   ps.innerHTML = ".post { background-color: rgba(40, 42, 46, .7) !important;" +
                          "border: 1px solid #282a2e !important;" +
-                       "};";
+                       "}";
   document.body.appendChild(ps);
 }
 
