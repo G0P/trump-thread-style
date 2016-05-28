@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Trump Thread Style
-// @version      1.1.3
+// @version      1.1.4
 // @namespace    TTS
 // @description  MAGA theme for trump general threads on 4chan
 // @license      nignog license
@@ -34,7 +34,7 @@ setTimeout(function () {
 var op = document.getElementsByClassName("opContainer")[0];
 
 // check if OP is a faggot who made a trump general thread
-if(op.getElementsByClassName("subject")[0].textContent.toLowerCase().indexOf("TRUMP GENERAL") >= 0)
+if(op.getElementsByClassName("subject")[0].textContent.toUpperCase().indexOf("TRUMP GENERAL") >= 0)
 {
   // background properties
   var s = document.body.style;
