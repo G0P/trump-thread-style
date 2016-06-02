@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Trump Thread Style
-// @version      1.1.6
+// @version      1.1.7
 // @namespace    TTS
 // @description  MAGA theme for trump general threads on 4chan
 // @license      nignog license
@@ -26,7 +26,8 @@ var background_img = [
   "url('https://i.imgur.com/gprqpUd.png')",
   "url('https://i.imgur.com/ZaIqjNG.jpg')",
   "url('https://i.imgur.com/7K7fTK7.png')",
-  "url('https://i.imgur.com/haoPGnm.jpg')"
+  "url('https://i.imgur.com/haoPGnm.jpg')",
+  "url('https://i.imgur.com/WA9LsdV.jpg')"
 ];
 
 setTimeout(function () {
