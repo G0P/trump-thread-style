@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Trump Thread Style
-// @version      1.2.2
+// @version      1.2.3
 // @namespace    TTS
 // @description  MAGA theme for trump general threads on 4chan
 // @license      nignog license
