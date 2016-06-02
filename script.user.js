@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Trump Thread Style
-// @version      1.2.0
+// @version      1.2.1
 // @namespace    TTS
 // @description  MAGA theme for trump general threads on 4chan
 // @license      nignog license
@@ -53,12 +53,12 @@ if(op.getElementsByClassName("subject")[0].textContent.toUpperCase().indexOf("TR
                   "   background-color: rgba(40, 42, 46, .7) !important;" +
                   "   border: 1px solid #282a2e !important;" +
                   "}"+
-                  ".yourPost {"+
+                  ".yourPost .post {"+
                   "   border-style: dashed !important;"+
                   "   border-width: 3px !important;"+
                   "   border-color: #2575d1"+
                   "}"+
-                  ".quotesYou {"+
+                  ".quotesYou .post {"+
                   "   border-style: solid !important;"+
                   "   border-width: 3px !important;"+
                   "   border-color: #2575d1"+
