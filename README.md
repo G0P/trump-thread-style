@@ -11,7 +11,7 @@ Usage
 -----
 Go to any trump general thread and praise Emperor Trump wisdom with your new glorious thread theme.
 
-The theme works best with the Tomorrow style, I didn't modified the CSS to much to not mess with people own config.
+The theme works best with the Tomorrow style, I didn't modify the CSS to much to not mess with people own config.
 If you want you can edit the script to modify the CSS but remember to turn of the updates for the script.
 You obviously won't get any more update if you do that.
 
